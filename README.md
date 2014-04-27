@@ -1,6 +1,4 @@
 #macsim
-
-
 #### Simulator for Heterogeneous Architecture
 
 ## Introduction

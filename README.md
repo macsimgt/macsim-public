@@ -13,7 +13,7 @@
 
 ## Note
 
-* Currently, we are developing a power model for GPUS, but the model is not ready to release yet.
+* We've developed a power model for GPU architecture using McPAT. Please refer to the following paper for more detailed information. [Power Modeling for GPU Architecture using McPAT](https://googledrive.com/host/0B2-rFvjUJRZfM1BDOWFvbmZEY1E/Power Modeling for GPU Architecture using McPAT.pdf) by Jieun Lim, Nagesh B. Lakshminarayana, Hyesoon Kim, William Song, Sudhakar Yalamanchili, Wonyong Sung, from Transactions on Design Automation of Electronic Systems (TODAES) Vol. 19, No. 3.
 
  
 ## Documentation

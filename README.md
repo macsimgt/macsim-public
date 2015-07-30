@@ -1,6 +1,9 @@
 #macsim
 #### Simulator for Heterogeneous Architecture
 
+* Please use release tab to get the tagged version of the source code! 
+
+
 ## Introduction
 
 * MacSim is a heterogeneous architecture timing model simulator that is developed from Georgia Institute of Technology.
@@ -34,11 +37,9 @@ Please see [MacSim documentation file](http://macsim.googlecode.com/files/macsim
 
 ## People
 
-* Prof. Hyesoon Kim (Project Leader)
-* Jaekyu Lee (Main developer)
-* Nagesh B. Lakshminarayana (Main developer)
-* Jieun Lim (Power Modeling)
-* Tri Pho (SST-Macsim)
+* Prof. Hyesoon Kim (Project Leader) at Georgia Tech 
+Hparch research group 
+(http://comparch.gatech.edu/hparch/people.hparch) 
 
 
 ## Mailing list

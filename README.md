@@ -1,7 +1,15 @@
 #macsim
 #### Simulator for Heterogeneous Architecture
 
-* Please use release tab to get the tagged version of the source code! 
+
+Please go to the new github repository for the macsimm  https://github.com/gthparch/macsim
+This site is no longer maintained. 
+
+
+
+
+#######################################################################
+
 
 
 ## Introduction
